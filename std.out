@@ -1,5 +1,18 @@
-
- Last    Found  - FC-44-82-AB-36-05,FC-44-82-AB-36-06,FE-44-82-AB-36-05,00-50-56-C0-00-01,00-50-56-C0-00-08 
- Current Found  - FC-44-82-AB-36-05,FC-44-82-AB-36-06,FE-44-82-AB-36-05,00-50-56-C0-00-01,00-50-56-C0-00-08,FC-44-82-AB-36-09 
- Last    Found  - FC-44-82-AB-36-05,FC-44-82-AB-36-06,FE-44-82-AB-36-05,00-50-56-C0-00-01,00-50-56-C0-00-08 
- Current Found  - FC-44-82-AB-36-05,FC-44-82-AB-36-06,FE-44-82-AB-36-05,00-50-56-C0-00-01,00-50-56-C0-00-08,FC-44-82-AB-36-09 
+WdgMtb: ACCESS ModeSwitch@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS ThruCurve@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS AutoCont@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS Chordal@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS Full@ROUND is unavailable (CB)
+WdgMtb: ACCESS AddSet@SetPopupMenu@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS DeleteSet@SetPopupMenu@ROUND is invisible (UI)
+WdgMtb: ACCESS MakeVariable@SetPopupMenu@ROUND is invisible (UI)
+WdgMtb: ACCESS MakeConstant@SetPopupMenu@ROUND is invisible (UI)
+WdgMtb: ACCESS ModeSwitch@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS ThruCurve@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS AutoCont@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS Chordal@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS Full@ROUND is unavailable (CB)
+WdgMtb: ACCESS AddSet@SetPopupMenu@ROUND is AVAILABLE (CB)
+WdgMtb: ACCESS DeleteSet@SetPopupMenu@ROUND is invisible (UI)
+WdgMtb: ACCESS MakeVariable@SetPopupMenu@ROUND is invisible (UI)
+WdgMtb: ACCESS MakeConstant@SetPopupMenu@ROUND is invisible (UI)
